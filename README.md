@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Hi, my name is Dada Romeo.
+- 😄 My name is Dada Romeo.
 - ⚡ I’m passionate about creative writing, filmmaking, visual effets, python programming, AI and photography.
-- 📫 Reach me here: https://t.me/dadaromeo
+- 📫 How to reach me: https://t.me/dadaromeo
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y6FYNB7)
